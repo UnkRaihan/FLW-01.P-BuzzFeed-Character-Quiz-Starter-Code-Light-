@@ -75,8 +75,8 @@ The image source should be one that corresponds to the result. Say the result is
 
       
 ## Wrap-Up (everyday)
-- [ ] Save your changes and push to GitHub
-- [ ] Submit your project link to the Project Submission form.
+- [x] Save your changes and push to GitHub
+- [x] Submit your project link to the Project Submission form.
 
 
 ## Extensions
