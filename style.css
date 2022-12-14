@@ -2,6 +2,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Slabo 27px', serif;
+  background: #F5F5DC;
 }
 
 .header {
@@ -39,9 +40,20 @@ img{
 
 button {
   margin-top: 10px;
-  color: white;
+  color: #ffffff;
   background-color: #eb2642;
   font-size: 40px;
+  border-radius: 25px;
+  border:3px groove black;
+  font-family: monospace;
+  padding: 20px;
+}
+
+.answers {
+  margin-top: 10px;
+  color:  #FBCEB1;
+  background-color:#9CAF88;
+  font-size: 20px;
   border-radius: 25px;
   border:3px groove black;
   font-family: monospace;
